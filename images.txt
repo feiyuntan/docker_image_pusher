@@ -7,4 +7,4 @@ xhofe/alist:latest
 xhongc/music_tag_web
 olbat/cupsd
 ydkn/cups
-
+OpenPrinting/cups
